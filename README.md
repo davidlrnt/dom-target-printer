@@ -1,12 +1,3 @@
-# dom-target-printer
-
-
-import targetPrint from 'dom-target-printer';
-
-targetPrint(this.wrapper, ()=>{console.log("uaha");})
-
-
-
 # DOM Target Printer
 
 Utility to show only selected dom element on window.print
