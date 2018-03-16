@@ -1,0 +1,26 @@
+{
+  "name": "dom-target-printer",
+  "version": "1.0.0",
+  "description": "print targeted dom elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlrnt/dom-target-printer.git"
+  },
+  "keywords": [
+    "dom",
+    "printer",
+    "element",
+    "media",
+    "print"
+  ],
+  "author": "davidlrnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlrnt/dom-target-printer/issues"
+  },
+  "homepage": "https://github.com/davidlrnt/dom-target-printer#readme"
+}
